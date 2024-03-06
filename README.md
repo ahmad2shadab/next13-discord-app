@@ -94,3 +94,5 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 ---
 
 Thank you for checking out our project! If you have any questions or suggestions, feel free to open an issue or submit a pull request.
+
+<!-- Changed the main branch to master -->
