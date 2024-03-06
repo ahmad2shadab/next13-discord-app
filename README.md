@@ -97,4 +97,4 @@ Thank you for checking out our project! If you have any questions or suggestions
 
 <!-- Changed the main branch to master -->
 
-Synced with latest changes and created `feature/shadab` branch
+<!-- Synced with latest changes and created `feature/shadab` branch -->
