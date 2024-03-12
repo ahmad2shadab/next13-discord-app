@@ -4,8 +4,7 @@ import Image from 'next/image';
 export default function Home() {
   return (
     <div>
-      <p className="text-3xl font-bold text-indigo-500">Hello Discord App</p>
-      <Button variant="outline">Button</Button>
+      This needs to be a protected route!
     </div>
   );
 }
